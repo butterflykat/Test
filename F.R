@@ -4,7 +4,11 @@ square <- function(x) {
 x*x
 }
 
-##double a number
+multiply <- function(x,y){
+  x* y
+}
+
+##multiply a number by two
 double <- function(x) {
   x*2
 }
